@@ -10,6 +10,7 @@
 
     <modules>
         <module>java_io</module>
+        <module>Chapter1</module>
     </modules>
 
     <build>
